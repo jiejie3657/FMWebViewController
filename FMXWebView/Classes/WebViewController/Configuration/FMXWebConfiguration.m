@@ -2,7 +2,7 @@
 //  FMXWebConfiguration.m
 //  FMXWebView
 //
-//  Created by LIYINGPENG on 2017/7/6.
+//  Created by HEJIE on 2017/7/6.
 //  Copyright © 2017年 Formax. All rights reserved.
 //
 
